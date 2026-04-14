@@ -12,6 +12,7 @@ public class _2AlternatePrint {
         int n = 4;
         int arr[] = {2, 3, 5, 5};
         
+        
         sol.printArray(arr, n);
     }
 }
