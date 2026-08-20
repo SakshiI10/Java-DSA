@@ -1,4 +1,4 @@
-public class _4_Star1 {
+public class _4_Star2 {
     public static void main(String[] args) {
         int n = 5;
 
