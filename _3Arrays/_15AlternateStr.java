@@ -15,7 +15,7 @@ public class _15AlternateStr {
     public static ArrayList<Integer> alternateSort(int[] arr) {
         int n=arr.length;
         Arrays.sort(arr);
-        ArrayList<Integer> result=new ArrayList();
+        ArrayList<Integer> result=new ArrayList<>();
         int left=0;
         int right=n-1;
         

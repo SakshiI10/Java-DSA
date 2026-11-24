@@ -4,7 +4,7 @@
 // Input : arr[ ] = {1, 2, 3, 4}
 // Output : 21
 
-public class _17MultiplyLetAndRight {
+public class _17MultiplyLeftAndRight {
     public static void main(String[] args)   {
         int arr[]={1, 2, 3, 4};
         System.out.print(multiply(arr));
