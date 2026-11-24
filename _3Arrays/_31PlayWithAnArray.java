@@ -33,6 +33,11 @@ public class _31PlayWithAnArray {
                 return false;
             }
         }
+        System.out.println();
+        for(int num : temp){
+            System.out.print(num+" ");
+        }
+        System.out.println();
         return true;
     }
 }

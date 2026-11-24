@@ -5,7 +5,7 @@
 // Output: [2, 3, 7, 5] 
 
 import java.util.ArrayList;
-import java.util.LinkedHashSet;
+import java.util.HashSet;
 
 public class _34RemoveDuplicates {
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class _34RemoveDuplicates {
     }
 
     static ArrayList<Integer> remDuplicate(int arr[]) {
-        LinkedHashSet<Integer> set = new LinkedHashSet<>();
+        HashSet<Integer> set = new HashSet<>();
         for (int num : arr) {
             set.add(num);
         }

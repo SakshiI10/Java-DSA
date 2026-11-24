@@ -6,12 +6,14 @@
 
 import java.util.Arrays;
 import java.util.HashMap;
+
 public class _35AvgCountArr {
     public static void main(String[] args) {
-        int[] arr = {2, 4, 8, 6, 2};
-        int x=2;
+        int[] arr = { 2, 4, 8, 6, 2 };
+        int x = 2;
         System.out.print(Arrays.toString(countArray(arr, x)));
     }
+
     public static int[] countArray(int[] arr, int x) {
         int n = arr.length;
         // Array
