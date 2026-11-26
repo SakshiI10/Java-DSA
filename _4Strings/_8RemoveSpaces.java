@@ -18,7 +18,6 @@ public class _8RemoveSpaces {
             char ch = s.charAt(i);
 
             if (ch != ' ') {
-
                 res = res + ch;
             }
         }

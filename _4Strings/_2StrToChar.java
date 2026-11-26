@@ -1,6 +1,5 @@
 // Convert String to Char
 
-package String;
 import java.util.Arrays;
 
 public class _2StrToChar {

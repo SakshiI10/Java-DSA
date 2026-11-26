@@ -8,8 +8,6 @@
 // 4
 // 2
 
-package String;
-
 public class _4CountTypeOfChar {
     public static void main(String[] args) {
         String s = "#GeeKs01fOr@gEEks07";

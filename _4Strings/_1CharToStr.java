@@ -3,8 +3,6 @@
 // String result = "":	Start with an empty, immutable string
 // StringBuilder result = new StringBuilder():	Start with an empty, mutable character StringBuilder
 
-package String;
-
 public class _1CharToStr {
     public static void main(String[] args) {
         char[] arr = { 'q', 'w', 'e', 'r', 't', 'y' };

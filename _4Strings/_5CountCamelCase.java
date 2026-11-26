@@ -1,5 +1,3 @@
-package String;
-
 public class _5CountCamelCase {
     public static void main(String[] args) {
         String s = "ckjkUUYII";

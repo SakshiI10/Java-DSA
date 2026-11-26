@@ -1,5 +1,3 @@
-package String;
-
 public class _3AlternateChar {
     public static void main(String[] args) {
         System.out.println(delAlternate("Geeks"));
