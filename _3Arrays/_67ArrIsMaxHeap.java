@@ -3,7 +3,7 @@
 // Input: arr[] = [90, 15, 10, 7, 12, 2]
 // Output: true
 
-public class _74ArrIsMaxHeap {
+public class _67ArrIsMaxHeap {
     public static void main(String[] args) {
         int[] arr = { 90, 15, 10, 7, 12, 2 };
         System.out.println(isMaxHeap(arr));

@@ -10,7 +10,7 @@
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class _73MissingInSecArray {
+public class _66MissingInSecArray {
 
     public static void main(String[] args) {
         int[] a = {1, 2, 3, 4, 5, 10};

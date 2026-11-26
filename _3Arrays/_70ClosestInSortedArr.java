@@ -5,7 +5,7 @@
 // Input:  arr[] = [1, 3, 6, 7], k = 4
 // Output: 3
 
-public class _77ClosestInSortedArr {
+public class _70ClosestInSortedArr {
     public static void main(String[] args) {
         int[] arr = { 1, 3, 6, 7 };
         int k=4;
@@ -25,7 +25,6 @@ public class _77ClosestInSortedArr {
                 closest = arr[i];
             }
         }
-
         return closest;
     }
 }

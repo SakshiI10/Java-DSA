@@ -5,7 +5,7 @@
 
 import java.util.Arrays;
 
-public class _76SwapAdjacent {
+public class _69SwapAdjacent {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4, 5 };
         swapElements(arr);

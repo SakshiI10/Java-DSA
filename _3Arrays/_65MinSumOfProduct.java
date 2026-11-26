@@ -5,7 +5,7 @@
 
 import java.util.Arrays;
 
-class _72MinSumOfProduct {
+class _65MinSumOfProduct {
     public static void main(String[] args) {
         int[] a = { 3, 1, 1 };
         int[] b = { 6, 5, 4 };
