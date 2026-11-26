@@ -3,7 +3,7 @@
 // Input: arr[] = [5, 5, 5, 10, 20]
 // Output: true
 
-public class _86BusTIcketChange {
+public class _79BusTicketChange {
     public static void main(String[] args) {
         int[] arr = { 5, 5, 5, 10, 20 };
         System.out.println(canServe(arr));

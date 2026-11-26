@@ -1,4 +1,4 @@
-public class _83LowerUpperBound {
+public class _76LowerUpperBound {
     public static void main(String[] args) {
         int[] arr = {2, 3, 7, 10, 11, 11, 25};
         int target = 11;

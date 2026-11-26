@@ -5,9 +5,9 @@
 
 import java.util.HashMap;
 
-public class _82MaxDistBetweenSame {
+public class _75MaxDistBetweenSame {
     public static void main(String[] args) {
-        int[] arr = {3, 2, 1, 2, 1, 4, 5, 8, 6, 7, 4, 2 };
+        int[] arr = {1, 1, 2, 2, 2, 1 };
         System.out.println(maxDistance(arr));
     }
 

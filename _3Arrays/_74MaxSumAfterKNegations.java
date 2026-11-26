@@ -7,7 +7,7 @@
 
 import java.util.Arrays;
 
-public class _81MaxSumAfterKNegations{
+public class _74MaxSumAfterKNegations{
     public static void main(String[] args) {
         int[] arr = { 1, 2, -3, 4, 5 };
         int k=1;

@@ -5,7 +5,7 @@
 // Input: k = 2, seats[] = [0, 0, 1, 0, 0, 0, 1]
 // Output: true
 
-public class _84SeatingArrangement {
+public class _77SeatingArrangement {
     public static void main(String[] args) {
         int[] seats = { 0, 0, 1, 0, 0, 0, 1 };
         int k = 2;

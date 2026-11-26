@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class _80PairsWthPosNegValues {
+public class _73PairsWthPosNegValues {
     public static void main(String[] args) {
         int[] arr = { 1, -3, 2, 3, 6, -1, -3, 3 };
         System.out.println(posNegPair(arr));

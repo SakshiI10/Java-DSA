@@ -5,7 +5,7 @@
 
 import java.util.ArrayList;
 
-public class _85DoubleTheFirstAndMakeSecZero {
+public class _78DoubleTheFirstAndMakeSecZero {
     public static void main(String[] args) {
         int[] arr = { 2, 2, 0, 4, 0, 8 };
         System.out.println(modifyArray(arr));

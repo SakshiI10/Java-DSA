@@ -8,7 +8,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class _78ClosestSumPairOneArr {
+public class _71ClosestSumPairOneArr {
     public static void main(String[] args) {
         int[] arr = { 10, 30, 20, 5 };
         int target = 25;

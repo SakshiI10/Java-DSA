@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class _44CountDistictPairWithSum {
+public class _45CountDistictPairWithSum {
     public static void main(String[] args) {
         int[] arr = { 5, 6, 5, 7, 7, 8 };
         int target = 13;

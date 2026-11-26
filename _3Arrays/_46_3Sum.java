@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class _44_3Sum {
+public class _46_3Sum {
     public static void main(String[] args) {
         int[] arr = {1, 4, 45, 6, 10, 8};
         int target = 13;
